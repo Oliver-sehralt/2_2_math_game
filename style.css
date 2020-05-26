@@ -1,8 +1,8 @@
-#field {
+.form {
 height: 50px;
 width: 50px;
 }
 
-form {
+button {
     display: inline;
 }
